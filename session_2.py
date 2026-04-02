@@ -6,7 +6,7 @@ Created on Thu Apr  2 13:55:16 2026
 @author: valeriediaz
 """
 
-# sum of two floating point bnumbers
+# sum of two floating point numbers
 x = 23.7
 y = 45.9
 
